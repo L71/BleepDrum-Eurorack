@@ -18194,10 +18194,10 @@ Source: http://www2.produktinfo.conrad.com/datenblaetter/700000-724999/705152-da
 <plain>
 <text x="299.72" y="149.86" size="1.778" layer="91">Actually, RGB diode should be CC. </text>
 <text x="27.94" y="7.62" size="1.778" layer="97">Jacks: "Thonkiconn" PJ301M
-Drum pad switches: C&amp;K push buttons
-Pots: ALPS footprint compatible
+Drum pad switches: C&amp;K D6R series
+Pots: ALPS RK09 footprint compatible
 
-Function switches: generic 6x6mm PCB switches. Use 13mm height model to reach through front panel. </text>
+Function switches: generic 6x6mm PCB switches. Use 13mm high type to reach through front panel. </text>
 <text x="15.24" y="231.14" size="3.81" layer="97">Bleep Drum Eurorack
 CC BY-SA 2016 Lars Bengtsson
 Based on Bleep Drum by Bleep Labs

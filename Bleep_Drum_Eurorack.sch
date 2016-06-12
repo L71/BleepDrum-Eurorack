@@ -18142,7 +18142,7 @@ Source: http://www2.produktinfo.conrad.com/datenblaetter/700000-724999/705152-da
 <part name="Q3" library="transistor-npn" deviceset="2N3904" device=""/>
 <part name="Q4" library="transistor-npn" deviceset="2N3904" device=""/>
 <part name="R11" library="rcl" deviceset="R-EU_" device="0204/2V" value="1k"/>
-<part name="R12" library="rcl" deviceset="R-EU_" device="0204/2V" value="1M"/>
+<part name="R12" library="rcl" deviceset="R-EU_" device="0204/2V" value="100k"/>
 <part name="GND26" library="supply1" deviceset="GND" device=""/>
 <part name="OUT_AUDIO" library="thonkiconn" deviceset="WQP-PJ301M-12_JACK" device=""/>
 <part name="GND27" library="supply1" deviceset="GND" device=""/>

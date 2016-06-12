@@ -2057,7 +2057,7 @@ Please make sure your boards conform to these design rules.</description>
 <attribute name="NAME" x="34.8234" y="24.3586" size="1.27" layer="25" ratio="10" rot="R270"/>
 <attribute name="VALUE" x="35.1536" y="24.9936" size="1.27" layer="27" ratio="10" rot="R270"/>
 </element>
-<element name="R12" library="rcl" package="0204V" value="1M" x="13.97" y="15.875" rot="R90"/>
+<element name="R12" library="rcl" package="0204V" value="100k" x="13.97" y="15.875" rot="R90"/>
 <element name="OUT_AUDIO" library="thonkiconn" package="WQP-PJ301M-12_JACK" value="WQP-PJ301M-12_JACK" x="7.62" y="12.7" smashed="yes" rot="R90">
 <attribute name="NAME" x="12.0904" y="7.9502" size="1.27" layer="21" rot="R180"/>
 </element>

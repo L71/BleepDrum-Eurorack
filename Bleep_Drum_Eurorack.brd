@@ -2053,9 +2053,9 @@ Please make sure your boards conform to these design rules.</description>
 <attribute name="NAME" x="17.78" y="51.435" size="1.27" layer="25" ratio="10" rot="R90"/>
 <attribute name="VALUE" x="17.145" y="55.88" size="1.27" layer="27" ratio="10" rot="R90"/>
 </element>
-<element name="R11" library="rcl" package="0204V" value="1k" x="37.465" y="22.86" smashed="yes" rot="R270">
-<attribute name="NAME" x="34.8234" y="24.3586" size="1.27" layer="25" ratio="10" rot="R270"/>
-<attribute name="VALUE" x="35.1536" y="24.9936" size="1.27" layer="27" ratio="10" rot="R270"/>
+<element name="R11" library="rcl" package="0204V" value="1k" x="34.925" y="22.86" smashed="yes" rot="R270">
+<attribute name="NAME" x="36.0934" y="24.3586" size="1.27" layer="25" ratio="10" rot="R270"/>
+<attribute name="VALUE" x="32.6136" y="24.9936" size="1.27" layer="27" ratio="10" rot="R270"/>
 </element>
 <element name="R12" library="rcl" package="0204V" value="100k" x="13.97" y="15.875" rot="R90"/>
 <element name="OUT_AUDIO" library="thonkiconn" package="WQP-PJ301M-12_JACK" value="WQP-PJ301M-12_JACK" x="7.62" y="12.7" smashed="yes" rot="R90">
@@ -2133,7 +2133,7 @@ Please make sure your boards conform to these design rules.</description>
 <attribute name="VALUE" x="24.765" y="18.161" size="1.27" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="R1" library="rcl" package="0204V" value="10k" x="31.75" y="17.78" smashed="yes" rot="R180">
-<attribute name="NAME" x="36.4236" y="19.7866" size="1.27" layer="25" ratio="10" rot="R180"/>
+<attribute name="NAME" x="35.7886" y="20.4216" size="1.27" layer="25" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="33.8836" y="20.0914" size="1.27" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="LED_B" library="led" package="LED3MM" value="" x="26.67" y="10.16" smashed="yes" rot="R180">
@@ -2141,7 +2141,7 @@ Please make sure your boards conform to these design rules.</description>
 <attribute name="VALUE" x="24.765" y="11.811" size="1.27" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="R2" library="rcl" package="0204V" value="10k" x="31.75" y="12.7" smashed="yes" rot="R180">
-<attribute name="NAME" x="36.4236" y="14.0716" size="1.27" layer="25" ratio="10" rot="R180"/>
+<attribute name="NAME" x="35.6616" y="11.2014" size="1.27" layer="25" ratio="10" rot="R90"/>
 <attribute name="VALUE" x="33.8836" y="15.0114" size="1.27" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="LED_Y" library="led" package="LED3MM" value="" x="20.32" y="10.16" smashed="yes" rot="R180">
@@ -2149,7 +2149,7 @@ Please make sure your boards conform to these design rules.</description>
 <attribute name="VALUE" x="18.415" y="11.811" size="1.27" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="R18" library="rcl" package="0204V" value="10k" x="31.75" y="10.16" smashed="yes" rot="R180">
-<attribute name="NAME" x="37.0586" y="8.9916" size="1.27" layer="25" ratio="10" rot="R180"/>
+<attribute name="NAME" x="34.5186" y="8.9916" size="1.27" layer="25" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="33.8836" y="12.4714" size="1.27" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="LED_G" library="led" package="LED3MM" value="" x="20.32" y="16.51" smashed="yes" rot="R180">
@@ -2157,7 +2157,7 @@ Please make sure your boards conform to these design rules.</description>
 <attribute name="VALUE" x="18.415" y="18.161" size="1.27" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="R19" library="rcl" package="0204V" value="10k" x="31.75" y="15.24" smashed="yes" rot="R180">
-<attribute name="NAME" x="37.0586" y="16.6116" size="1.27" layer="25" ratio="10" rot="R180"/>
+<attribute name="NAME" x="35.6616" y="13.7414" size="1.27" layer="25" ratio="10" rot="R90"/>
 <attribute name="VALUE" x="33.8836" y="17.5514" size="1.27" layer="27" ratio="10" rot="R180"/>
 </element>
 </elements>
@@ -2367,7 +2367,7 @@ Please make sure your boards conform to these design rules.</description>
 <wire x1="90.17" y1="62.23" x2="87.63" y2="62.23" width="0.254" layer="1"/>
 <wire x1="87.63" y1="62.23" x2="86.36" y2="63.5" width="0.254" layer="1"/>
 <wire x1="86.36" y1="63.5" x2="69.215" y2="63.5" width="0.254" layer="1"/>
-<wire x1="43.18" y1="24.13" x2="37.465" y2="24.13" width="0.254" layer="1"/>
+<wire x1="43.18" y1="24.13" x2="34.925" y2="24.13" width="0.254" layer="1"/>
 </signal>
 <signal name="N$5">
 <contactref element="IC3" pad="9"/>
@@ -2680,7 +2680,7 @@ Please make sure your boards conform to these design rules.</description>
 <signal name="N$1">
 <contactref element="R11" pad="2"/>
 <contactref element="C4" pad="+"/>
-<wire x1="31.75" y1="21.59" x2="37.465" y2="21.59" width="0.254" layer="1"/>
+<wire x1="31.75" y1="21.59" x2="34.925" y2="21.59" width="0.254" layer="1"/>
 </signal>
 <signal name="N$3">
 <contactref element="R12" pad="2"/>

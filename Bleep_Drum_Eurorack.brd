@@ -2021,7 +2021,7 @@ Please make sure your boards conform to these design rules.</description>
 <element name="IN_R" library="thonkiconn" package="WQP-PJ301M-12_JACK" value="WQP-PJ301M-12_JACK" x="7.62" y="58.42" smashed="yes" rot="R90">
 <attribute name="NAME" x="6.3754" y="53.6702" size="1.27" layer="21" rot="R180"/>
 </element>
-<element name="IC3" library="SparkFun-DigitalIC" package="DIL28-3" value="ATMEGA328P" x="74.93" y="39.37" smashed="yes" rot="R90">
+<element name="IC3" library="SparkFun-DigitalIC" package="DIL28-3" value="ATMEGA328" x="74.93" y="39.37" smashed="yes" rot="R90">
 <attribute name="NAME" x="74.93" y="24.13" size="1.27" layer="25" ratio="10" rot="R90"/>
 <attribute name="VALUE" x="75.565" y="33.655" size="1.27" layer="25" ratio="10" rot="R90"/>
 </element>

@@ -18076,7 +18076,7 @@ Source: http://www2.produktinfo.conrad.com/datenblaetter/700000-724999/705152-da
 </class>
 </classes>
 <parts>
-<part name="IC3" library="SparkFun-DigitalIC" deviceset="ATMEGA328P_PDIP" device="" value="ATMEGA328P"/>
+<part name="IC3" library="SparkFun-DigitalIC" deviceset="ATMEGA328P_PDIP" device="" value="ATMEGA328"/>
 <part name="FRAME1" library="frames" deviceset="A3L-LOC" device=""/>
 <part name="IC4" library="adafruit_mcp" deviceset="MCP4921" device="DIP8" value="MCP4921"/>
 <part name="AVR_ISP" library="SparkFun" deviceset="AVR_SPI_PRG_6" device="PTH" value="AVRISP"/>

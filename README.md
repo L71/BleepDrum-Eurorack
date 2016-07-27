@@ -15,7 +15,8 @@ It is a pretty basic adaptation with just trigger and CV inputs to make external
 Credits for the original circuitry goes to Bleep Labs (www.bleeplabs.com).
 
 This module is working with the Bleep Drum MIDI firmware v12. Original Bleep Drum programmed chips should also work (but has not been tested).  
-The internal drum sequencing seems a bit buggy. I'm not sure if this is because of hardware issues or not. I did not get it to work at all when I built this on a breadboard (which is also the reason why a clock output is missing). It works fine as a sound source which was the main reason I did this anyway so I'll leave it like this. 
+The internal drum sequencing seems a bit buggy. I'm not sure if this is because of hardware issues or not. I did not get it to work at all when I built this on a breadboard (which is also the reason why a clock output is missing). It works fine as a sound source which was the main reason I did this anyway so I'll leave it like this.
+(Also, the C&K switches used for the drum pads turn out to be pretty bad for playing anyway...)
 
 Panel notes: I ordered the panel from Ponoko, laser cut and engraved on 1.5mm acrylic, black surface on white core. This gives a quite nice panel, black with engraved white text on it. Not exactly bullet proof but solid enought when the PCB is attached with all jacks and additional support screws. The used jacks will put the panel 10mm above the PCB so use matching 10mm spacer bolts. 
 If a thicker panel (> 2-2.5mm thick) is used you may want to adjust how you mount the push buttons accordingly. 

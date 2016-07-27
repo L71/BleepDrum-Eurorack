@@ -1,9 +1,9 @@
 Bleep Drum Eurorack
 ===================
 
-This is the Bleep Drum by Bleep Labs converted to a aurorack module.
+This is the Bleep Drum by Bleep Labs converted to a Eurorack module.
 
-It is a pretty basic adaptation, just added trigger inputs and CVs to make external control possible where the original only had its knobs.
+It is a pretty basic adaptation with just trigger and CV inputs to make external control possible where the original only had the pad buttons and pitch knobs.
 
 * Same output circuitry as original (5V P-P, a bit lower than common in Eurorack)
 * Trigger inputs are eurorack voltage safe (positive edge trig, >1V)

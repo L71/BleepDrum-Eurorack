@@ -19,12 +19,12 @@ The original files from Bleep Labs can be found here: https://github.com/BleepLa
 
 This module is working with the Bleep Drum MIDI firmware v12. Original Bleep Drum programmed chips should also work (but has not been tested).  
 
-The internal drum sequencing in the module seems a bit glitchy. I'm not sure if this is because of some weird hardware issue, bugs or me just not understanding how it is supposed to work... =)
-I also still can't get it to record or play back anything at all when the circuit sits on a breadboard (which is also the reason why a clock output is missing...). It works fine as a sound source which was the main reason I did this anyway so I'll leave it like this. (Also, the C&K switches used for the drum pads turn out to be pretty bad for playing anyway...)
+The internal drum sequencing in the module works I think - I have no original Bleep Drum to compare with - but I can't seem to get it to record or play back anything at all when the circuit sits on a breadboard (this is also why a clock output is missing).
+It works fine as a sound source which was the main reason I did this anyway so I'll leave it like this. Also, the C&K switches used for the drum pads turn out to be pretty bad for playing anyway.
 
 
-Panel notes: I ordered the panel from Ponoko, laser cut and engraved on 1.5mm acrylic, black surface on white core. This gives a quite nice panel, black with engraved white text on it. Not exactly bullet proof but solid enought when the PCB is attached with all jacks and additional support screws. The used jacks will put the panel 10mm above the PCB so use matching 10mm spacer bolts. 
-If a thicker panel (> 2-2.5mm) is used you may want to adjust how you mount the push buttons accordingly. 
+Panel notes: I ordered the panel from Ponoko, laser cut and engraved on 1.5mm acrylic, black surface on white core. This gives a quite nice panel, black with engraved white text on it. Not exactly bullet proof but solid enought when the PCB is attached with all jacks and additional support screws. The jacks will hold the panel 10mm above the PCB so use matching 10mm spacer bolts. 
+If a thicker panel (> 2-2.5mm) is used you may want to adjust how you mount the push buttons accordingly or else they may disappear into the panel... 
 
 
 The module has a standard 10pin Eurorack +/- 12V power connector but it only uses the +12V and should run just fine on any DC power source that provides at least 7-8 volts if used standalone.  

@@ -35,10 +35,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.5004847"
-     inkscape:cx="454.77321"
+     inkscape:cx="367.50704"
      inkscape:cy="316.19501"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:snap-center="false"
      inkscape:snap-object-midpoints="true"
@@ -81,6 +81,55 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Documentation"
+     style="display:inline">
+    <text
+       sodipodi:linespacing="125%"
+       id="text4405"
+       y="872.64551"
+       x="20.533211"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="872.64551"
+         x="20.533211"
+         id="tspan4407"
+         sodipodi:role="line">Ponoko upload info:</tspan><tspan
+         y="882.02051"
+         x="20.533211"
+         sodipodi:role="line"
+         id="tspan4415">* Drawing is made with Inkscape.</tspan><tspan
+         y="891.39551"
+         x="20.533211"
+         sodipodi:role="line"
+         id="tspan4430">* Typeface used: &quot;My Underwood&quot;.</tspan><tspan
+         y="900.77051"
+         x="20.533211"
+         sodipodi:role="line"
+         id="tspan4432">https://www.fontsquirrel.com/fonts/my-underwood  </tspan><tspan
+         y="910.14551"
+         x="20.533211"
+         sodipodi:role="line"
+         id="tspan4409">* read the Ponoko guides and get their templates</tspan><tspan
+         y="919.52051"
+         x="20.533211"
+         sodipodi:role="line"
+         id="tspan4411">* hide the &quot;knob outlines&quot; layer</tspan><tspan
+         y="928.89551"
+         x="20.533211"
+         sodipodi:role="line"
+         id="tspan4413">* change all lines to 0.01mm wide</tspan><tspan
+         y="938.27051"
+         x="20.533211"
+         sodipodi:role="line"
+         id="tspan4417">* select the panel objects, group them and copy</tspan><tspan
+         y="947.64551"
+         x="20.533211"
+         sodipodi:role="line"
+         id="tspan4419">to the template. </tspan></text>
+  </g>
   <g
      inkscape:label="6HP panel"
      inkscape:groupmode="layer"
@@ -1043,12 +1092,6 @@
          id="path4450"
          inkscape:connector-curvature="0" />
     </g>
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 180,791.36218 18,0 0,18 18,0 0,0 0,0"
-       id="path7948"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccc" />
     <text
        sodipodi:linespacing="125%"
        id="text11315"
@@ -1397,7 +1440,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Knobs outlines"
-     style="display:inline">
+     style="display:none">
     <circle
        id="path3884"
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.35433072;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
